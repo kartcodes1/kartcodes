@@ -1,8 +1,8 @@
 ## Input do Console
 ```js
-let port = "olá, este repositório servirá apenas para guardar códigos que eu escrevo para práticar e melhorar minhas habilidades na programação, então se tiverem algumas dicas sobre como eu poderia otimizalos ou simplismente melhorar eles de alguma forma, sintam-se livres para comentar, ficarei feliz em ler todos e em trabalhar para trabalhar em meus pontos fracos."
+let port = "olá, este repositório servirá apenas para guardar códigos que eu escrevo para práticar e melhorar minhas habilidades na programação, então se tiverem algumas dicas sobre como eu poderia otimizalos ou simplismente melhorar eles de alguma forma, sintam-se livres para comentar, ficarei feliz em ler todos eles e aprender com vocês como melhorar na programação."
 
-let ing = "hello this repository will serve only to store codes that I write to practice and improve my programming skills, so if you have any tips on how I could optimize them or simply improve them in some way, feel free to comment, I will be happy to read all and work to work on my weaknesses."
+let ing = "hello, this repository will serve only to store codes that I write to practice and improve my programming skills, so if you have any tips on how I could optimize them or simply improve them in some way, feel free to comment, I will be happy to read them all and learn with you guys how to improve as a programmer."
 
 function selectlenguage(opcao) {
     if (opcao === 1) {
@@ -24,9 +24,7 @@ console.log(english);
 ```
 ## Output do Console
 ```txt
-olá, este repositório servirá apenas para guardar códigos que eu escrevo para práticar e melhorar minhas habilidades na programação, então se tiverem algumas dicas sobre como eu poderia otimizalos ou simplismente melhorar eles de alguma forma, sintam-se livres para comentar, ficarei feliz em ler todos e em trabalhar para trabalhar em meus pontos fracos.
-
+olá, este repositório servirá apenas para guardar códigos que eu escrevo para práticar e melhorar minhas habilidades na programação, então se tiverem algumas dicas sobre como eu poderia otimizalos ou simplismente melhorar eles de alguma forma, sintam-se livres para comentar, ficarei feliz em ler todos eles e aprender com vocês como melhorar na programação.
 ===========================================================================================================================
-
-hello this repository will serve only to store codes that I write to practice and improve my programming skills, so if you have any tips on how I could optimize them or simply improve them in some way, feel free to comment, I will be happy to read all and work to work in my weaknesses.
+hello, this repository will serve only to store codes that I write to practice and improve my programming skills, so if you have any tips on how I could optimize them or simply improve them in some way, feel free to comment, I will be happy to read them all and learn with you guys how to improve as a programmer.
 ```
