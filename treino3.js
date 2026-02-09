@@ -8,4 +8,5 @@ let raiz1 = ( - b + Math.sqrt(Delta)) / (2*a); // calculo da raiz 1
 let raiz2 = ( - b - Math.sqrt(Delta)) / (2*a); //calculo da raiz 2
 return [raiz1, raiz2]; // retorna as raízes em um array
 
-} console.log (calcularRaizes(1, 0, 0)); // exemplo de uso da função, deve retornar as raízes 3 e 1
+
+} console.log (calcularRaizes(1, 0, 0)); // exemplo de uso da função, deve retornar as raízes 0 e -0
